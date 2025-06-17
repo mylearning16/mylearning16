@@ -1,16 +1,28 @@
 ## Hi there 👋
 
-<!--
-**mylearning16/mylearning16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- 👨‍💻 Passionate about building innovative solutions with code.
+- 🌱 Always learning new technologies and expanding my skill set.
+- 🤝 Open to collaboration and contributing to the open source community.
+
+## 🛠️ My Skill Set
+
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![React](https://img.shields.io/badge/react-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
+![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+## 📈 GitHub Stats
+
+![newgit16's GitHub stats](https://github-readme-stats.vercel.app/api?username=newgit16&show_icons=true&theme=radical)
+
+## 📫 How to reach me
+
+- GitHub: [newgit16](https://github.com/newgit16)
+
+---
+
+*Thanks for visiting my profile!*
