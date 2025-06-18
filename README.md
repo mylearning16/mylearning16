@@ -17,11 +17,11 @@ Welcome to my GitHub profile!
 
 ## 📈 GitHub Stats
 
-![newgit16's GitHub stats](https://github-readme-stats.vercel.app/api?username=newgit16&show_icons=true&theme=radical)
+![mylearning16's GitHub stats](https://github-readme-stats.vercel.app/api?username=newgit16&show_icons=true&theme=radical)
 
 ## 📫 How to reach me
 
-- GitHub: [newgit16](https://github.com/mylearning16)
+- GitHub: [mylearning16](https://github.com/mylearning16)
 
 ---
 
