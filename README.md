@@ -21,7 +21,7 @@ Welcome to my GitHub profile!
 
 ## 📫 How to reach me
 
-- GitHub: [newgit16](https://github.com/newgit16)
+- GitHub: [newgit16](https://github.com/mylearning16)
 
 ---
 
